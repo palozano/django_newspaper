@@ -14,7 +14,7 @@ Feel free to use it as you want, but everything comes with no guaranties.
 Environment managed with __conda__.
 
 List of packages:
-
+```
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: linux-64
@@ -42,3 +42,4 @@ tk=8.6.8=hbc83047_0
 wheel=0.34.2=py38_0
 xz=5.2.4=h14c3975_4
 zlib=1.2.11=h7b6447c_3
+```
